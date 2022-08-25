@@ -42,4 +42,8 @@ public class TestProxy {
     public void test05(){
         System.out.println("master test");
     }
+
+    public void test06(){
+        System.out.println("repository push~~~~");
+    }
 }
