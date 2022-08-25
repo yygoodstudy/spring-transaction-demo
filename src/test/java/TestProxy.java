@@ -29,4 +29,9 @@ public class TestProxy {
     public void test02(){
         System.out.println("hello world02");
     }
+
+    // 在hot-fix分支上个第1次修改代码
+    public void test03(){
+        System.out.println("hello world02");
+    }
 }
