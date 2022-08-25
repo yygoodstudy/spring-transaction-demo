@@ -18,4 +18,10 @@ public class TestProxy {
         orderService.test1();
 //        orderService.test2();
     }
+
+    // 修改代码
+    @Test
+    public void test01(){
+        System.out.println("hello world");
+    }
 }
