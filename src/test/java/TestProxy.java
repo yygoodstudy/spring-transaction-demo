@@ -24,4 +24,9 @@ public class TestProxy {
     public void test01(){
         System.out.println("hello world");
     }
+
+    // 第二次修改代码
+    public void test02(){
+        System.out.println("hello world02");
+    }
 }
