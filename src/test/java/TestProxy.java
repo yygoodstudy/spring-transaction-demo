@@ -34,4 +34,8 @@ public class TestProxy {
     public void test03(){
         System.out.println("hello world02");
     }
+
+    public void test04(){
+        System.out.println("master test");
+    }
 }
