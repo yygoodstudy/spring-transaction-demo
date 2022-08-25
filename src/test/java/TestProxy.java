@@ -36,6 +36,10 @@ public class TestProxy {
     }
 
     public void test04(){
+        System.out.println("hot-fix test");
+    }
+
+    public void test05(){
         System.out.println("master test");
     }
 }
