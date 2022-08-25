@@ -46,4 +46,8 @@ public class TestProxy {
     public void test06(){
         System.out.println("repository push~~~~");
     }
+
+    public void test07(){
+        System.out.println("repository push02~~~~");
+    }
 }
